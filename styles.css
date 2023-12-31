@@ -170,8 +170,7 @@ body:before {
       to top,
       rgba(206, 223, 242, 0.11),
       rgba(206, 223, 242, 0.11)
-    ),
-    url("assets/images/bg.jpg?v=212befed");
+    );
   background-size: 100% 100%, auto, cover;
 }
 body:after {
